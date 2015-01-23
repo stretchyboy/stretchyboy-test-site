@@ -1,10 +1,3 @@
----
-layout: post
-title: You're up and running!
----
+This blog has been written using Markdown and the rather spiffy looking  [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I'm not sure whether the edit style etc will suit me  but it has to be said the set up was incredibly easy. Fork the repo, rename the repo and it's done. Amazing.
